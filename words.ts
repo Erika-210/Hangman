@@ -1,0 +1,1 @@
+const words: string[] = ['grape', 'peach', 'youth', 'zebra', 'chair', 'music', 'light', 'house', 'table']
